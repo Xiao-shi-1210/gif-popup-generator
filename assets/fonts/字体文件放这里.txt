@@ -1,0 +1,7 @@
+请把以下 3 个字体文件放进这个文件夹：
+
+1. Aa厚底黑(2).ttf
+2. Alibaba_PuHuiTi_2.0_115_Black_115_Black.ttf
+3. Alimama_ShuHeiTi_Bold.ttf
+
+文件名不要改。
